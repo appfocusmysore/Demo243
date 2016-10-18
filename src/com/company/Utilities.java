@@ -14,4 +14,8 @@ public class Utilities {
         //to do
         return "";
     }
+    public static String getUserEmail(int id){
+        //to do
+        return "";
+    }
 }
