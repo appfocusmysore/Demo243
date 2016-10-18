@@ -9,4 +9,9 @@ public class Utilities {
         //to do
         return true;
     }
+
+    public static String getUserPhone(int id){
+        //to do
+        return "";
+    }
 }
