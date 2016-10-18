@@ -14,4 +14,9 @@ public class Utilities {
         //to do
         return "";
     }
+
+    public static String getUserCity(int id){
+        //to do
+        return "";
+    }
 }
